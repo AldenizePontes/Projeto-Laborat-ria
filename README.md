@@ -1,2 +1,2 @@
-# Projeto-Laborat-ria
+# Projeto-Laboratória
 Projeto-Pré-Admissão
